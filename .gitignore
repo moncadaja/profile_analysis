@@ -4,3 +4,4 @@
 __pycache__/
 *.pyc
 startup/README~
+history.sqlite
